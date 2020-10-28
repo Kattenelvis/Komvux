@@ -1,7 +1,7 @@
-PWD c:\Users\Emil\Documents\Programming Projects\2020\Last Quarter 2020\KomvuxMatte\U1
+PWD c:\Users\Emil\Documents\Programming Projects\2020\Last Quarter 2020\KomvuxFysik\U1
 INPUT C:\Users\Emil\AppData\Local\MiKTeX\2.9\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\Emil\Documents\Programming Projects\2020\Last Quarter 2020\KomvuxMatte\U1\Ma4_U1_Emil_Svenberg.tex
-OUTPUT c:\Users\Emil\Documents\Programming Projects\2020\Last Quarter 2020\KomvuxMatte\U1\Ma4_U1_Emil_Svenberg.log
+INPUT c:\Users\Emil\Documents\Programming Projects\2020\Last Quarter 2020\KomvuxFysik\U1\Fy2_u1_Emil_Svenberg.tex
+OUTPUT c:\Users\Emil\Documents\Programming Projects\2020\Last Quarter 2020\KomvuxFysik\U1\Fy2_u1_Emil_Svenberg.log
 INPUT C:\Users\Emil\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\article.cls
 INPUT C:\Users\Emil\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\article.cls
 INPUT C:\Users\Emil\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\size12.clo
@@ -19,9 +19,9 @@ INPUT C:\Users\Emil\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\gra
 INPUT C:\Users\Emil\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg
 INPUT C:\Users\Emil\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def
 INPUT C:\Users\Emil\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def
-INPUT c:\Users\Emil\Documents\Programming Projects\2020\Last Quarter 2020\KomvuxMatte\U1\Ma4_U1_Emil_Svenberg.aux
-INPUT c:\Users\Emil\Documents\Programming Projects\2020\Last Quarter 2020\KomvuxMatte\U1\Ma4_U1_Emil_Svenberg.aux
-OUTPUT c:\Users\Emil\Documents\Programming Projects\2020\Last Quarter 2020\KomvuxMatte\U1\Ma4_U1_Emil_Svenberg.aux
+INPUT c:\Users\Emil\Documents\Programming Projects\2020\Last Quarter 2020\KomvuxFysik\U1\Fy2_u1_Emil_Svenberg.aux
+INPUT c:\Users\Emil\Documents\Programming Projects\2020\Last Quarter 2020\KomvuxFysik\U1\Fy2_u1_Emil_Svenberg.aux
+OUTPUT c:\Users\Emil\Documents\Programming Projects\2020\Last Quarter 2020\KomvuxFysik\U1\Fy2_u1_Emil_Svenberg.aux
 INPUT C:\Users\Emil\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Users\Emil\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Users\Emil\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty
@@ -46,39 +46,8 @@ INPUT C:\Users\Emil\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\pdfte
 INPUT C:\Users\Emil\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty
 INPUT C:\Users\Emil\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty
 INPUT C:\Users\Emil\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty
-INPUT C:\Users\Emil\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmr8.tfm
-INPUT C:\Users\Emil\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmr6.tfm
-INPUT C:\Users\Emil\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmmi12.tfm
-INPUT C:\Users\Emil\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmmi8.tfm
-INPUT C:\Users\Emil\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmmi6.tfm
-INPUT C:\Users\Emil\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmsy10.tfm
-INPUT C:\Users\Emil\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmsy8.tfm
-INPUT C:\Users\Emil\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmsy6.tfm
-INPUT C:\Users\Emil\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmbx12.tfm
-INPUT C:\Users\Emil\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmbx8.tfm
-INPUT C:\Users\Emil\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmbx6.tfm
-INPUT c:\Users\Emil\Documents\Programming Projects\2020\Last Quarter 2020\KomvuxMatte\U1\Figur1.png
-INPUT c:\Users\Emil\Documents\Programming Projects\2020\Last Quarter 2020\KomvuxMatte\U1\Figur1.png
-OUTPUT c:\Users\Emil\Documents\Programming Projects\2020\Last Quarter 2020\KomvuxMatte\U1\Ma4_U1_Emil_Svenberg.pdf
-INPUT c:\Users\Emil\Documents\Programming Projects\2020\Last Quarter 2020\KomvuxMatte\U1\Figur1.png
-INPUT c:\Users\Emil\Documents\Programming Projects\2020\Last Quarter 2020\KomvuxMatte\U1\Figur1.png
-INPUT c:\Users\Emil\Documents\Programming Projects\2020\Last Quarter 2020\KomvuxMatte\U1\Figur1.png
-INPUT c:\Users\Emil\Documents\Programming Projects\2020\Last Quarter 2020\KomvuxMatte\U1\Figur2.png
-INPUT c:\Users\Emil\Documents\Programming Projects\2020\Last Quarter 2020\KomvuxMatte\U1\Figur2.png
-INPUT c:\Users\Emil\Documents\Programming Projects\2020\Last Quarter 2020\KomvuxMatte\U1\Figur2.png
-INPUT c:\Users\Emil\Documents\Programming Projects\2020\Last Quarter 2020\KomvuxMatte\U1\Figur2.png
-INPUT c:\Users\Emil\Documents\Programming Projects\2020\Last Quarter 2020\KomvuxMatte\U1\Figur2.png
+OUTPUT c:\Users\Emil\Documents\Programming Projects\2020\Last Quarter 2020\KomvuxFysik\U1\Fy2_u1_Emil_Svenberg.pdf
 INPUT C:\Users\Emil\AppData\Local\MiKTeX\2.9\pdftex\config\pdftex.map
-INPUT c:\Users\Emil\Documents\Programming Projects\2020\Last Quarter 2020\KomvuxMatte\U1\Ma4_U1_Emil_Svenberg.aux
-INPUT C:\Users\Emil\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmbx12.pfb
-INPUT C:\Users\Emil\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmbx12.pfb
-INPUT C:\Users\Emil\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmmi12.pfb
-INPUT C:\Users\Emil\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmmi12.pfb
+INPUT c:\Users\Emil\Documents\Programming Projects\2020\Last Quarter 2020\KomvuxFysik\U1\Fy2_u1_Emil_Svenberg.aux
 INPUT C:\Users\Emil\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr12.pfb
 INPUT C:\Users\Emil\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr12.pfb
-INPUT C:\Users\Emil\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr8.pfb
-INPUT C:\Users\Emil\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr8.pfb
-INPUT C:\Users\Emil\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmsy10.pfb
-INPUT C:\Users\Emil\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmsy10.pfb
-INPUT C:\Users\Emil\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmsy8.pfb
-INPUT C:\Users\Emil\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmsy8.pfb
