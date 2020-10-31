@@ -19,6 +19,16 @@ INPUT C:\Users\Emil\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\gra
 INPUT C:\Users\Emil\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg
 INPUT C:\Users\Emil\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def
 INPUT C:\Users\Emil\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def
+INPUT C:\Users\Emil\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty
+INPUT C:\Users\Emil\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty
+INPUT C:\Users\Emil\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amstext.sty
+INPUT C:\Users\Emil\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amstext.sty
+INPUT C:\Users\Emil\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty
+INPUT C:\Users\Emil\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty
+INPUT C:\Users\Emil\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty
+INPUT C:\Users\Emil\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty
+INPUT C:\Users\Emil\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty
+INPUT C:\Users\Emil\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty
 INPUT c:\Users\Emil\Documents\Programming Projects\2020\Last Quarter 2020\KomvuxFysik\U1\Fy2_u1_Emil_Svenberg.aux
 INPUT c:\Users\Emil\Documents\Programming Projects\2020\Last Quarter 2020\KomvuxFysik\U1\Fy2_u1_Emil_Svenberg.aux
 OUTPUT c:\Users\Emil\Documents\Programming Projects\2020\Last Quarter 2020\KomvuxFysik\U1\Fy2_u1_Emil_Svenberg.aux
@@ -60,6 +70,9 @@ INPUT C:\Users\Emil\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmmi6.
 INPUT C:\Users\Emil\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmsy10.tfm
 INPUT C:\Users\Emil\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmsy8.tfm
 INPUT C:\Users\Emil\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmsy6.tfm
+INPUT C:\Users\Emil\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmex10.tfm
+INPUT C:\Users\Emil\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\cmextra\cmex8.tfm
+INPUT C:\Users\Emil\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
 INPUT C:\Users\Emil\AppData\Local\MiKTeX\2.9\pdftex\config\pdftex.map
 INPUT c:\Users\Emil\Documents\Programming Projects\2020\Last Quarter 2020\KomvuxFysik\U1\Figur2.png
 INPUT c:\Users\Emil\Documents\Programming Projects\2020\Last Quarter 2020\KomvuxFysik\U1\Figur2.png
@@ -67,6 +80,8 @@ INPUT c:\Users\Emil\Documents\Programming Projects\2020\Last Quarter 2020\Komvux
 INPUT c:\Users\Emil\Documents\Programming Projects\2020\Last Quarter 2020\KomvuxFysik\U1\Figur2.png
 INPUT c:\Users\Emil\Documents\Programming Projects\2020\Last Quarter 2020\KomvuxFysik\U1\Figur2.png
 INPUT c:\Users\Emil\Documents\Programming Projects\2020\Last Quarter 2020\KomvuxFysik\U1\Fy2_u1_Emil_Svenberg.aux
+INPUT C:\Users\Emil\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmex10.pfb
+INPUT C:\Users\Emil\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmex10.pfb
 INPUT C:\Users\Emil\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmmi12.pfb
 INPUT C:\Users\Emil\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmmi12.pfb
 INPUT C:\Users\Emil\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr12.pfb
