@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7200 64-bit) (preloaded format=pdflatex 2020.3.20)  31 OCT 2020 10:22
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7200 64-bit) (preloaded format=pdflatex 2020.3.20)  31 OCT 2020 10:31
 entering extended mode
 **"c:/Users/Emil/Documents/Programming Projects/2020/Last Quarter 2020/KomvuxFysik/U1/Fy2_u1_Emil_Svenberg.tex"
 ("c:/Users/Emil/Documents/Programming Projects/2020/Last Quarter 2020/KomvuxFysik/U1/Fy2_u1_Emil_Svenberg.tex"
@@ -166,19 +166,24 @@ File: Figur2.png Graphic file (type png)
 <use Figur2.png>
 Package pdftex.def Info: Figur2.png  used on input line 36.
 (pdftex.def)             Requested size: 345.73021pt x 297.28658pt.
- [2 <c:/Users/Emil/Documents/Programming Projects/2020/Last Quarter 2020/KomvuxFysik/U1/Figur2.png>] [3] ("c:/Users\Emil\Documents\Programming Projects\2020\Last Quarter 2020\KomvuxFysik\U1\Fy2_u1_Emil_Svenberg.aux") ) 
+<Figur3.png, id=11, 548.80031pt x 301.8778pt>
+File: Figur3.png Graphic file (type png)
+<use Figur3.png>
+Package pdftex.def Info: Figur3.png  used on input line 55.
+(pdftex.def)             Requested size: 274.39948pt x 150.93852pt.
+ [2 <c:/Users/Emil/Documents/Programming Projects/2020/Last Quarter 2020/KomvuxFysik/U1/Figur2.png>] [3 <c:/Users/Emil/Documents/Programming Projects/2020/Last Quarter 2020/KomvuxFysik/U1/Figur3.png>] ("c:/Users\Emil\Documents\Programming Projects\2020\Last Quarter 2020\KomvuxFysik\U1\Fy2_u1_Emil_Svenberg.aux") ) 
 Here is how much of TeX's memory you used:
- 2101 strings out of 492452
- 29842 string characters out of 3120531
+ 2108 strings out of 492452
+ 29935 string characters out of 3120531
  96232 words of memory out of 3000000
- 6453 multiletter control sequences out of 15000+200000
+ 6459 multiletter control sequences out of 15000+200000
  7050 words of font info for 26 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 46i,9n,30p,372b,211s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 46i,5n,30p,372b,191s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Users/Emil/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/Emil/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/Emil/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Emil/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Emil/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Emil/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on "c:/Users\Emil\Documents\Programming Projects\2020\Last Quarter 2020\KomvuxFysik\U1\Fy2_u1_Emil_Svenberg.pdf" (3 pages, 141591 bytes).
+Output written on "c:/Users\Emil\Documents\Programming Projects\2020\Last Quarter 2020\KomvuxFysik\U1\Fy2_u1_Emil_Svenberg.pdf" (3 pages, 145502 bytes).
 PDF statistics:
- 38 PDF objects out of 1000 (max. 8388607)
+ 41 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 16 words of extra memory for PDF output out of 10000 (max. 10000000)
 
