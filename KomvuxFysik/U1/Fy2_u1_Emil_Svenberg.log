@@ -1,192 +1,197 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7200 64-bit) (preloaded format=pdflatex 2020.3.20)  31 OCT 2020 10:45
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7380 64-bit) (preloaded format=pdflatex 2020.4.10)  2 NOV 2020 10:41
 entering extended mode
-**"c:/Users/Emil/Documents/Programming Projects/2020/Last Quarter 2020/KomvuxFysik/U1/Fy2_u1_Emil_Svenberg.tex"
-("c:/Users/Emil/Documents/Programming Projects/2020/Last Quarter 2020/KomvuxFysik/U1/Fy2_u1_Emil_Svenberg.tex"
-LaTeX2e <2019-10-01>
-("C:\Users\Emil\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\article.cls"
-Document Class: article 2019/08/27 v1.4j Standard LaTeX document class
-("C:\Users\Emil\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\size12.clo"
-File: size12.clo 2019/08/27 v1.4j Standard LaTeX file (size option)
+**e:/projects/Komvux/KomvuxFysik/U1/Fy2_u1_Emil_Svenberg.tex
+(e:/projects/Komvux/KomvuxFysik/U1/Fy2_u1_Emil_Svenberg.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-04-06> (E:\Filer\LATEx\Compiler\tex/latex/base\article.cls
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+(E:\Filer\LATEx\Compiler\tex/latex/base\size12.clo
+File: size12.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
 )
-\c@part=\count80
-\c@section=\count81
-\c@subsection=\count82
-\c@subsubsection=\count83
-\c@paragraph=\count84
-\c@subparagraph=\count85
-\c@figure=\count86
-\c@table=\count87
-\abovecaptionskip=\skip41
-\belowcaptionskip=\skip42
-\bibindent=\dimen102
-) ("C:\Users\Emil\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphicx.sty"
-Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
- ("C:\Users\Emil\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyval.sty"
+\c@part=\count167
+\c@section=\count168
+\c@subsection=\count169
+\c@subsubsection=\count170
+\c@paragraph=\count171
+\c@subparagraph=\count172
+\c@figure=\count173
+\c@table=\count174
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+) (E:\Filer\LATEx\Compiler\tex/latex/graphics\graphicx.sty
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+ (E:\Filer\LATEx\Compiler\tex/latex/graphics\keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
-\KV@toks@=\toks14
-) ("C:\Users\Emil\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphics.sty"
-Package: graphics 2019/07/20 v1.3b Standard LaTeX Graphics (DPC,SPQR)
- ("C:\Users\Emil\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.sty"
+\KV@toks@=\toks15
+) (E:\Filer\LATEx\Compiler\tex/latex/graphics\graphics.sty
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+ (E:\Filer\LATEx\Compiler\tex/latex/graphics\trig.sty
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
-) ("C:\Users\Emil\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\graphics.cfg"
+) (E:\Filer\LATEx\Compiler\tex/latex/graphics-cfg\graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 105.
- ("C:\Users\Emil\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\pdftex.def"
+ (E:\Filer\LATEx\Compiler\tex/latex/graphics-def\pdftex.def
 File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 ))
-\Gin@req@height=\dimen103
-\Gin@req@width=\dimen104
-) ("C:\Users\Emil\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsmath.sty"
-Package: amsmath 2019/04/01 v2.17c AMS math features
-\@mathmargin=\skip43
+\Gin@req@height=\dimen135
+\Gin@req@width=\dimen136
+) (E:\Filer\LATEx\Compiler\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2020/01/20 v2.17e AMS math features
+\@mathmargin=\skip49
 
 For additional information on amsmath, use the `?' option.
-("C:\Users\Emil\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amstext.sty"
+(E:\Filer\LATEx\Compiler\tex/latex/amsmath\amstext.sty
 Package: amstext 2000/06/29 v2.01 AMS text
- ("C:\Users\Emil\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsgen.sty"
+ (E:\Filer\LATEx\Compiler\tex/latex/amsmath\amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks15
-\ex@=\dimen105
-)) ("C:\Users\Emil\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsbsy.sty"
+\@emptytoks=\toks16
+\ex@=\dimen137
+)) (E:\Filer\LATEx\Compiler\tex/latex/amsmath\amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen106
-) ("C:\Users\Emil\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsopn.sty"
+\pmbraise@=\dimen138
+) (E:\Filer\LATEx\Compiler\tex/latex/amsmath\amsopn.sty
 Package: amsopn 2016/03/08 v2.02 operator names
 )
-\inf@bad=\count88
+\inf@bad=\count175
 LaTeX Info: Redefining \frac on input line 227.
-\uproot@=\count89
-\leftroot@=\count90
+\uproot@=\count176
+\leftroot@=\count177
 LaTeX Info: Redefining \overline on input line 389.
-\classnum@=\count91
-\DOTSCASE@=\count92
+\classnum@=\count178
+\DOTSCASE@=\count179
 LaTeX Info: Redefining \ldots on input line 486.
 LaTeX Info: Redefining \dots on input line 489.
 LaTeX Info: Redefining \cdots on input line 610.
-\Mathstrutbox@=\box27
-\strutbox@=\box28
-\big@size=\dimen107
+\Mathstrutbox@=\box45
+\strutbox@=\box46
+\big@size=\dimen139
 LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
-\macc@depth=\count93
-\c@MaxMatrixCols=\count94
-\dotsspace@=\muskip10
-\c@parentequation=\count95
-\dspbrk@lvl=\count96
-\tag@help=\toks16
-\row@=\count97
-\column@=\count98
-\maxfields@=\count99
-\andhelp@=\toks17
-\eqnshift@=\dimen108
-\alignsep@=\dimen109
-\tagshift@=\dimen110
-\tagwidth@=\dimen111
-\totwidth@=\dimen112
-\lineht@=\dimen113
-\@envbody=\toks18
-\multlinegap=\skip44
-\multlinetaggap=\skip45
-\mathdisplay@stack=\toks19
-LaTeX Info: Redefining \[ on input line 2855.
-LaTeX Info: Redefining \] on input line 2856.
-) ("c:/Users\Emil\Documents\Programming Projects\2020\Last Quarter 2020\KomvuxFysik\U1\Fy2_u1_Emil_Svenberg.aux")
+\macc@depth=\count180
+\c@MaxMatrixCols=\count181
+\dotsspace@=\muskip16
+\c@parentequation=\count182
+\dspbrk@lvl=\count183
+\tag@help=\toks17
+\row@=\count184
+\column@=\count185
+\maxfields@=\count186
+\andhelp@=\toks18
+\eqnshift@=\dimen140
+\alignsep@=\dimen141
+\tagshift@=\dimen142
+\tagwidth@=\dimen143
+\totwidth@=\dimen144
+\lineht@=\dimen145
+\@envbody=\toks19
+\multlinegap=\skip50
+\multlinetaggap=\skip51
+\mathdisplay@stack=\toks20
+LaTeX Info: Redefining \[ on input line 2859.
+LaTeX Info: Redefining \] on input line 2860.
+) (E:\Filer\LATEx\Compiler\tex/latex/l3backend\l3backend-pdfmode.def
+File: l3backend-pdfmode.def 2020-03-12 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count187
+\l__pdf_internal_box=\box47
+) (e:/projects\Komvux\KomvuxFysik\U1\Fy2_u1_Emil_Svenberg.aux)
 \openout1 = `Fy2_u1_Emil_Svenberg.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
 LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 8.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 8.
 LaTeX Font Info:    ... okay on input line 8.
 LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 8.
 LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 8.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 8.
 LaTeX Font Info:    ... okay on input line 8.
 LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 8.
 LaTeX Font Info:    ... okay on input line 8.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 8.
 LaTeX Font Info:    ... okay on input line 8.
- ("C:\Users\Emil\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\supp-pdf.mkii"
+ (E:\Filer\LATEx\Compiler\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count100
-\scratchdimen=\dimen114
-\scratchbox=\box29
-\nofMPsegments=\count101
-\nofMParguments=\count102
-\everyMPshowfont=\toks20
-\MPscratchCnt=\count103
-\MPscratchDim=\dimen115
-\MPnumerator=\count104
-\makeMPintoPDFobject=\count105
-\everyMPtoPDFconversion=\toks21
-) ("C:\Users\Emil\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\epstopdf-base.sty"
-Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
- ("C:\Users\Emil\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\infwarerr.sty"
-Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
-) ("C:\Users\Emil\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\grfext.sty"
-Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
- ("C:\Users\Emil\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kvdefinekeys.sty"
-Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
- ("C:\Users\Emil\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ltxcmds.sty"
-Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
-))) ("C:\Users\Emil\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\kvoptions.sty"
-Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
- ("C:\Users\Emil\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kvsetkeys.sty"
-Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
- ("C:\Users\Emil\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\etexcmds.sty"
-Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
- ("C:\Users\Emil\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifluatex.sty"
-Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
-Package ifluatex Info: LuaTeX not detected.
-)))) ("C:\Users\Emil\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\pdftexcmds.sty"
-Package: pdftexcmds 2019/07/25 v0.30 Utility functions of pdfTeX for LuaTeX (HO)
- ("C:\Users\Emil\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifpdf.sty"
-Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+\scratchcounter=\count188
+\scratchdimen=\dimen146
+\scratchbox=\box48
+\nofMPsegments=\count189
+\nofMParguments=\count190
+\everyMPshowfont=\toks21
+\MPscratchCnt=\count191
+\MPscratchDim=\dimen147
+\MPnumerator=\count192
+\makeMPintoPDFobject=\count193
+\everyMPtoPDFconversion=\toks22
+) (E:\Filer\LATEx\Compiler\tex/latex/epstopdf-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+ (E:\Filer\LATEx\Compiler\tex/generic/infwarerr\infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+) (E:\Filer\LATEx\Compiler\tex/latex/grfext\grfext.sty
+Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
+ (E:\Filer\LATEx\Compiler\tex/generic/kvdefinekeys\kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)) (E:\Filer\LATEx\Compiler\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
+ (E:\Filer\LATEx\Compiler\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
+) (E:\Filer\LATEx\Compiler\tex/generic/kvsetkeys\kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)) (E:\Filer\LATEx\Compiler\tex/latex/pdftexcmds\pdftexcmds.sty
+Package: pdftexcmds 2019/11/24 v0.31 Utility functions of pdfTeX for LuaTeX (HO)
+ (E:\Filer\LATEx\Compiler\tex/generic/iftex\iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
 )
-Package pdftexcmds Info: LuaTeX not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
 )
-Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 438.
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
 Package grfext Info: Graphics extension search list:
 (grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps]
-(grfext)             \AppendGraphicsExtensions on input line 456.
+(grfext)             \AppendGraphicsExtensions on input line 504.
 )
 <Figur.png, id=1, 217.5628pt x 377.15906pt>
 File: Figur.png Graphic file (type png)
 <use Figur.png>
-Package pdftex.def Info: Figur.png  used on input line 14.
+Package pdftex.def Info: Figur.png  used on input line 16.
 (pdftex.def)             Requested size: 217.56227pt x 377.15814pt.
- [1
 
-{C:/Users/Emil/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <c:/Users/Emil/Documents/Programming Projects/2020/Last Quarter 2020/KomvuxFysik/U1/Figur.png>]
-<Figur2.png, id=10, 628.59843pt x 540.51938pt>
+Overfull \hbox (0.63577pt too wide) in paragraph at lines 23--25
+[]\OT1/cmr/m/n/12 Da blir havarmen runt 2 ganger kraften som man drar med. Ju hardadre
+ []
+
+[1
+
+{C:/Users/Emil/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <e:/projects/Komvux/KomvuxFysik/U1/Figur.png>]
+<Figur2.png, id=8, 628.59843pt x 540.51938pt>
 File: Figur2.png Graphic file (type png)
 <use Figur2.png>
-Package pdftex.def Info: Figur2.png  used on input line 36.
+Package pdftex.def Info: Figur2.png  used on input line 38.
 (pdftex.def)             Requested size: 345.73021pt x 297.28658pt.
-<Figur3.png, id=11, 548.80031pt x 301.8778pt>
+<Figur3.png, id=9, 548.80031pt x 301.8778pt>
 File: Figur3.png Graphic file (type png)
 <use Figur3.png>
-Package pdftex.def Info: Figur3.png  used on input line 54.
+Package pdftex.def Info: Figur3.png  used on input line 56.
 (pdftex.def)             Requested size: 274.39948pt x 150.93852pt.
- [2 <c:/Users/Emil/Documents/Programming Projects/2020/Last Quarter 2020/KomvuxFysik/U1/Figur2.png>]
-Overfull \hbox (0.66632pt too wide) in paragraph at lines 65--68
+ [2 <e:/projects/Komvux/KomvuxFysik/U1/Figur2.png>]
+Overfull \hbox (0.66632pt too wide) in paragraph at lines 67--70
 []\OT1/cmr/m/n/12 Variabln som bor raknas ut ar da t. Detta kan raknas ut i y-dimensionen
  []
 
-[3 <c:/Users/Emil/Documents/Programming Projects/2020/Last Quarter 2020/KomvuxFysik/U1/Figur3.png>] ("c:/Users\Emil\Documents\Programming Projects\2020\Last Quarter 2020\KomvuxFysik\U1\Fy2_u1_Emil_Svenberg.aux") ) 
+[3 <e:/projects/Komvux/KomvuxFysik/U1/Figur3.png>] (e:/projects\Komvux\KomvuxFysik\U1\Fy2_u1_Emil_Svenberg.aux) ) 
 Here is how much of TeX's memory you used:
- 2108 strings out of 492452
- 29935 string characters out of 3120531
- 96232 words of memory out of 3000000
- 6459 multiletter control sequences out of 15000+200000
- 7050 words of font info for 26 fonts, out of 3000000 for 9000
+ 2264 strings out of 480930
+ 32027 string characters out of 2911446
+ 272241 words of memory out of 3000000
+ 18123 multiletter control sequences out of 15000+200000
+ 535748 words of font info for 36 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 46i,5n,30p,372b,191s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Users/Emil/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/Emil/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/Emil/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Emil/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Emil/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Emil/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on "c:/Users\Emil\Documents\Programming Projects\2020\Last Quarter 2020\KomvuxFysik\U1\Fy2_u1_Emil_Svenberg.pdf" (3 pages, 145319 bytes).
+ 34i,5n,29p,266b,188s stack positions out of 5000i,500n,10000p,200000b,50000s
+<E:/Filer/LATEx/Compiler/fonts/type1/public/amsfonts/cm/cmex10.pfb><E:/Filer/LATEx/Compiler/fonts/type1/public/amsfonts/cm/cmmi12.pfb><E:/Filer/LATEx/Compiler/fonts/type1/public/amsfonts/cm/cmr12.pfb><E:/Filer/LATEx/Compiler/fonts/type1/public/amsfonts/cm/cmr8.pfb><E:/Filer/LATEx/Compiler/fonts/type1/public/amsfonts/cm/cmsy10.pfb><E:/Filer/LATEx/Compiler/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
+Output written on e:/projects\Komvux\KomvuxFysik\U1\Fy2_u1_Emil_Svenberg.pdf (3 pages, 144700 bytes).
 PDF statistics:
  41 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
