@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7380 64-bit) (preloaded format=pdflatex 2020.4.10)  2 NOV 2020 11:08
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7380 64-bit) (preloaded format=pdflatex 2020.4.10)  2 NOV 2020 11:44
 entering extended mode
 **e:/projects/Komvux/KomvuxMatte/U1/Ma4_U1_Emil_Svenberg.tex
 (e:/projects/Komvux/KomvuxMatte/U1/Ma4_U1_Emil_Svenberg.tex
@@ -97,21 +97,27 @@ Package pdftex.def Info: Figur2.png  used on input line 35.
 <Figur3.png, id=13, 554.07pt x 467.49657pt>
 File: Figur3.png Graphic file (type png)
 <use Figur3.png>
-Package pdftex.def Info: Figur3.png  used on input line 43.
+Package pdftex.def Info: Figur3.png  used on input line 44.
 (pdftex.def)             Requested size: 277.03432pt x 233.74771pt.
- [2 <e:/projects/Komvux/KomvuxMatte/U1/Figur2.png> <e:/projects/Komvux/KomvuxMatte/U1/Figur3.png>] (e:/projects\Komvux\KomvuxMatte\U1\Ma4_U1_Emil_Svenberg.aux) ) 
+ [2 <e:/projects/Komvux/KomvuxMatte/U1/Figur2.png> <e:/projects/Komvux/KomvuxMatte/U1/Figur3.png>]
+<Figur4.png, id=18, 607.51968pt x 262.73157pt>
+File: Figur4.png Graphic file (type png)
+<use Figur4.png>
+Package pdftex.def Info: Figur4.png  used on input line 61.
+(pdftex.def)             Requested size: 303.7591pt x 131.36545pt.
+ [3 <e:/projects/Komvux/KomvuxMatte/U1/Figur4.png>] (e:/projects\Komvux\KomvuxMatte\U1\Ma4_U1_Emil_Svenberg.aux) ) 
 Here is how much of TeX's memory you used:
- 1172 strings out of 480930
- 17224 string characters out of 2911446
+ 1178 strings out of 480930
+ 17303 string characters out of 2911446
  252931 words of memory out of 3000000
- 17078 multiletter control sequences out of 15000+200000
+ 17083 multiletter control sequences out of 15000+200000
  536002 words of font info for 36 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 30i,5n,25p,247b,260s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 30i,5n,25p,247b,262s stack positions out of 5000i,500n,10000p,200000b,50000s
 <E:/Filer/LATEx/Compiler/fonts/type1/public/amsfonts/cm/cmbx12.pfb><E:/Filer/LATEx/Compiler/fonts/type1/public/amsfonts/cm/cmmi12.pfb><E:/Filer/LATEx/Compiler/fonts/type1/public/amsfonts/cm/cmmi8.pfb><E:/Filer/LATEx/Compiler/fonts/type1/public/amsfonts/cm/cmr12.pfb><E:/Filer/LATEx/Compiler/fonts/type1/public/amsfonts/cm/cmr8.pfb><E:/Filer/LATEx/Compiler/fonts/type1/public/amsfonts/cm/cmsy10.pfb><E:/Filer/LATEx/Compiler/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on e:/projects\Komvux\KomvuxMatte\U1\Ma4_U1_Emil_Svenberg.pdf (2 pages, 148141 bytes).
+Output written on e:/projects\Komvux\KomvuxMatte\U1\Ma4_U1_Emil_Svenberg.pdf (3 pages, 161672 bytes).
 PDF statistics:
- 40 PDF objects out of 1000 (max. 8388607)
+ 44 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 16 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 21 words of extra memory for PDF output out of 10000 (max. 10000000)
 

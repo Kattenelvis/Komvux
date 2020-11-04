@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1604311691 "e:/projects/Komvux/KomvuxMatte/U1/Ma4_U1_Emil_Svenberg.tex" "e:/projects/Komvux/KomvuxMatte/U1/Ma4_U1_Emil_Svenberg.pdf" "Ma4_U1_Emil_Svenberg" 1604311692
+["pdflatex"] 1604313876 "e:/projects/Komvux/KomvuxMatte/U1/Ma4_U1_Emil_Svenberg.tex" "e:/projects/Komvux/KomvuxMatte/U1/Ma4_U1_Emil_Svenberg.pdf" "Ma4_U1_Emil_Svenberg" 1604313877
   "C:/Users/Emil/AppData/Local/MiKTeX/2.9/miktex/data/le/pdftex/pdflatex.fmt" 1586509767 10005931 6fd34ae148c9b1e8cee18120aaac0625 ""
   "C:/Users/Emil/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map" 1601930612 80043 e21f383012970912036ffe705e6ee6a3 ""
   "E:/Filer/LATEx/Compiler/fonts/tfm/public/cm/cmbx12.tfm" 1136765053 1324 c910af8c371558dc20f2d7822f66fe64 ""
@@ -35,13 +35,14 @@
   "Figur1.png" 1604185053 28022 48001f5e7d7c9f64208368cbc7d021e3 ""
   "Figur2.png" 1604185053 27621 e9b9cc20d9f874f0e5406e5f687b8fb6 ""
   "Figur3.png" 1604311628 32931 9a6a4a4bcf481518503110ae7720c372 ""
-  "Ma4_U1_Emil_Svenberg.aux" 1604311692 8 a94a2480d3289e625eea47cd1b285758 "pdflatex"
-  "Ma4_U1_Emil_Svenberg.tex" 1604311690 2342 b1f64ba0b564784629bd6f207deceebb ""
-  "e:/projects/Komvux/KomvuxMatte/U1/Ma4_U1_Emil_Svenberg.aux" 1604311692 8 a94a2480d3289e625eea47cd1b285758 ""
-  "e:/projects/Komvux/KomvuxMatte/U1/Ma4_U1_Emil_Svenberg.tex" 1604311690 2342 b1f64ba0b564784629bd6f207deceebb ""
+  "Figur4.png" 1604313570 14396 1785a59245e74c289d2c0320d0d6ed78 ""
+  "Ma4_U1_Emil_Svenberg.aux" 1604313877 8 a94a2480d3289e625eea47cd1b285758 "pdflatex"
+  "Ma4_U1_Emil_Svenberg.tex" 1604313876 3004 be741ae85bc712bcb126ca2431a8159f ""
+  "e:/projects/Komvux/KomvuxMatte/U1/Ma4_U1_Emil_Svenberg.aux" 1604313877 8 a94a2480d3289e625eea47cd1b285758 ""
+  "e:/projects/Komvux/KomvuxMatte/U1/Ma4_U1_Emil_Svenberg.tex" 1604313876 3004 be741ae85bc712bcb126ca2431a8159f ""
   (generated)
+  "Ma4_U1_Emil_Svenberg.log"
+  "Ma4_U1_Emil_Svenberg.pdf"
+  "Ma4_U1_Emil_Svenberg.aux"
   "e:/projects/Komvux/KomvuxMatte/U1/Ma4_U1_Emil_Svenberg.pdf"
   "e:/projects/Komvux/KomvuxMatte/U1/Ma4_U1_Emil_Svenberg.log"
-  "Ma4_U1_Emil_Svenberg.log"
-  "Ma4_U1_Emil_Svenberg.aux"
-  "Ma4_U1_Emil_Svenberg.pdf"
