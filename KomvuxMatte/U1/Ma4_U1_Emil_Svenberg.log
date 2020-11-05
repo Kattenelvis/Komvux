@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7380 64-bit) (preloaded format=pdflatex 2020.4.10)  2 NOV 2020 11:44
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7380 64-bit) (preloaded format=pdflatex 2020.4.10)  4 NOV 2020 11:09
 entering extended mode
 **e:/projects/Komvux/KomvuxMatte/U1/Ma4_U1_Emil_Svenberg.tex
 (e:/projects/Komvux/KomvuxMatte/U1/Ma4_U1_Emil_Svenberg.tex
@@ -81,11 +81,11 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 8.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 8.
-<Figur1.png, id=1, 636.12656pt x 596.98032pt>
+<Figur1.png, id=1, 678.28406pt x 548.80031pt>
 File: Figur1.png Graphic file (type png)
 <use Figur1.png>
 Package pdftex.def Info: Figur1.png  used on input line 17.
-(pdftex.def)             Requested size: 286.2543pt x 268.63866pt.
+(pdftex.def)             Requested size: 305.225pt x 246.95784pt.
 <Figur2.png, id=2, 643.6547pt x 327.47343pt>
 File: Figur2.png Graphic file (type png)
 <use Figur2.png>
@@ -115,7 +115,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  30i,5n,25p,247b,262s stack positions out of 5000i,500n,10000p,200000b,50000s
 <E:/Filer/LATEx/Compiler/fonts/type1/public/amsfonts/cm/cmbx12.pfb><E:/Filer/LATEx/Compiler/fonts/type1/public/amsfonts/cm/cmmi12.pfb><E:/Filer/LATEx/Compiler/fonts/type1/public/amsfonts/cm/cmmi8.pfb><E:/Filer/LATEx/Compiler/fonts/type1/public/amsfonts/cm/cmr12.pfb><E:/Filer/LATEx/Compiler/fonts/type1/public/amsfonts/cm/cmr8.pfb><E:/Filer/LATEx/Compiler/fonts/type1/public/amsfonts/cm/cmsy10.pfb><E:/Filer/LATEx/Compiler/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on e:/projects\Komvux\KomvuxMatte\U1\Ma4_U1_Emil_Svenberg.pdf (3 pages, 161672 bytes).
+Output written on e:/projects\Komvux\KomvuxMatte\U1\Ma4_U1_Emil_Svenberg.pdf (3 pages, 160466 bytes).
 PDF statistics:
  44 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

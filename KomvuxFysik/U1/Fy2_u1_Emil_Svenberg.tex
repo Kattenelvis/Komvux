@@ -7,9 +7,22 @@
 \usepackage{amsmath}
 \begin{document}
 \begin{enumerate}
-      \item
+      \item Jag vägde alla mina fyra suddigumm samt en träkub
+            och la dom på en 20cm linjal, vilket skulle göra det enkelt
+            att mäta distanser. Jag placerade dom som följande:
 
+            Kuben lades -1 cm från mitten och vägde 38.0 gram.
+            Sudd 1 lades -6 cm från mitten och vägde 19.2 gram.
+            Sudd 2 lades -3 cm från mitten och vägde 15.5 gram.
 
+            Då blir vridmomentet runt -200, vilket måste balanseras på andra sidan.
+            Då tog jag mina större sudd.
+
+            Sudd 3 lades 5 cm från mitten och vägde 26 gram.
+            Sudd 4 lades 3.6 cm från mitten och vägde 19.2 gram.
+
+            Vridmomentet på höger sida blir då runt 200.
+            Med lite småsjusteringar blev det jämnvikt.
 
       \item
             Följande bild och beskrivning finns i en Volvo V70 instruktionsbok:
@@ -23,8 +36,15 @@
             Då blir hävarmen runt 2 gånger kraften som man drar med. Ju hårdadre man drar destå
             mer hävarm.
 
-      \item
-            Vid kastbanans högsta punkt så är hastigheten för y axeln 0. Detta är för att
+      \item Det antas att $y_0=0$ och det ska tas reda på när y blir 0.
+            $$0=tvsin(\alpha)-\frac{gt^2}{2} \Rightarrow t=\frac{2vsin(\alpha)}{g}\approx 2$$
+
+            Den högsta punkten är vid t/2 eftersom att parabolen som bildas är symmetrisk när
+            man avfyrar från marken.
+
+            $$v_y=v_0sin(\alpha)-g(t/2) \Rightarrow v_y=0$$
+
+            Vid kastbanans högsta punkt så är alltså hastigheten för y axeln 0. Detta är för att
             kulan är precis vid sin maxpunkt och är påväg att börja åka neråt på grund utav
             graviationskraften.
 
@@ -57,15 +77,17 @@
 
             Då får vi att bollens x-position är
 
-            $$x=x_0+v_0t+\frac{1}{2}at^2$$
+            $$x=x_0+v_{x0}t+\frac{1}{2}at^2$$
 
-            Men vi antar att $x_0=0$ och $v_0=0$.
+            Men vi antar att $x_0=0$.
             Ekvationen simplifieras då till
 
-            $$x=\frac{1}{2}at^2$$
+            \begin{equation}
+                  x=v_{x0}t + \frac{1}{2}at^2
+            \end{equation}
 
-            Variabln som bör räknas ut är då t. Detta
-            kan räknas ut i y-dimensionen där gravitationskraften
+            Variabln som bör räknas ut är då t.
+            Detta kan räknas ut i y-dimensionen där gravitationskraften
             drar ner myntet till golvet under en viss tid.
 
             $$y=y_0-\frac{1}{2}gt^2$$
@@ -73,14 +95,17 @@
             Den tiden det tar att landa på marken är när y=0,
             och ekvationen kan då skrivas om som
 
-            $$t=\sqrt{\frac{2y_0}{g}}$$
+            \begin{equation}
+                  t=\sqrt{\frac{2y_0}{g}}
+            \end{equation}
 
-            Då kombineras ekvationerna för x och y
-            $$x=\frac{1}{2}a\sqrt{\frac{2y_0}{g}}^2$$
-            $$x=a\frac{y_0}{g}$$
+            Då sätts t från ekvation (2) in i ekvation (1)
 
-            Med a=2.3, g=9.81 och y0=1.5 får man att
-            myntet faller 0.35 meter bort. Men det finns anledningar
+            $$x=v_{x0}\sqrt{\frac{2y_0}{g}} + \frac{1}{2}a\sqrt{\frac{2y_0}{g}}^2$$
+            $$x=v_{x0}\sqrt{\frac{2y_0}{g}} + a\frac{y_0}{g}$$
+
+            Med $a=-2.3$, $g=9.81$, $v_{x0}=25$ och $y_0=1.5$ får man att
+            myntet faller 13.48 meter bort. Men det finns anledningar
             till att tro att den skulle åka längre i verkligheten, för
             objekt kan studsa, rulla och glida, vilket dom här
             ekvationerna inte täcker.
