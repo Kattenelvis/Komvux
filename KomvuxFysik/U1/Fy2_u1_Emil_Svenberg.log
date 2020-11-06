@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7380 64-bit) (preloaded format=pdflatex 2020.4.10)  5 NOV 2020 19:29
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7380 64-bit) (preloaded format=pdflatex 2020.4.10)  6 NOV 2020 22:16
 entering extended mode
 **e:/projects/Komvux/KomvuxFysik/U1/Fy2_u1_Emil_Svenberg.tex
 (e:/projects/Komvux/KomvuxFysik/U1/Fy2_u1_Emil_Svenberg.tex
@@ -156,32 +156,23 @@ Package grfext Info: Graphics extension search list:
 <Figur.png, id=1, 217.5628pt x 377.15906pt>
 File: Figur.png Graphic file (type png)
 <use Figur.png>
-Package pdftex.def Info: Figur.png  used on input line 29.
+Package pdftex.def Info: Figur.png  used on input line 30.
 (pdftex.def)             Requested size: 217.56227pt x 377.15814pt.
  [1
 
 {C:/Users/Emil/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <e:/projects/Komvux/KomvuxFysik/U1/Figur.png>]
-Overfull \hbox (0.63577pt too wide) in paragraph at lines 36--38
-[]\OT1/cmr/m/n/12 Da blir havarmen runt 2 ganger kraften som man drar med. Ju hardadre
- []
-
 <Figur2.png, id=7, 628.59843pt x 540.51938pt>
 File: Figur2.png Graphic file (type png)
 <use Figur2.png>
-Package pdftex.def Info: Figur2.png  used on input line 58.
+Package pdftex.def Info: Figur2.png  used on input line 59.
 (pdftex.def)             Requested size: 345.73021pt x 297.28658pt.
-[2]
+ [2]
 <Figur3.png, id=16, 548.80031pt x 301.8778pt>
 File: Figur3.png Graphic file (type png)
 <use Figur3.png>
-Package pdftex.def Info: Figur3.png  used on input line 76.
+Package pdftex.def Info: Figur3.png  used on input line 79.
 (pdftex.def)             Requested size: 274.39948pt x 150.93852pt.
- [3 <e:/projects/Komvux/KomvuxFysik/U1/Figur2.png>]
-Overfull \hbox (0.66632pt too wide) in paragraph at lines 89--92
-[]\OT1/cmr/m/n/12 Variabln som bor raknas ut ar da t. Detta kan raknas ut i y-dimensionen
- []
-
-[4 <e:/projects/Komvux/KomvuxFysik/U1/Figur3.png>] [5] (e:/projects\Komvux\KomvuxFysik\U1\Fy2_u1_Emil_Svenberg.aux) ) 
+ [3 <e:/projects/Komvux/KomvuxFysik/U1/Figur2.png>] [4 <e:/projects/Komvux/KomvuxFysik/U1/Figur3.png>] [5] (e:/projects\Komvux\KomvuxFysik\U1\Fy2_u1_Emil_Svenberg.aux) ) 
 Here is how much of TeX's memory you used:
  2264 strings out of 480930
  32027 string characters out of 2911446
@@ -191,7 +182,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  34i,5n,29p,266b,186s stack positions out of 5000i,500n,10000p,200000b,50000s
 <E:/Filer/LATEx/Compiler/fonts/type1/public/amsfonts/cm/cmex10.pfb><E:/Filer/LATEx/Compiler/fonts/type1/public/amsfonts/cm/cmmi12.pfb><E:/Filer/LATEx/Compiler/fonts/type1/public/amsfonts/cm/cmmi8.pfb><E:/Filer/LATEx/Compiler/fonts/type1/public/amsfonts/cm/cmr12.pfb><E:/Filer/LATEx/Compiler/fonts/type1/public/amsfonts/cm/cmr8.pfb><E:/Filer/LATEx/Compiler/fonts/type1/public/amsfonts/cm/cmsy10.pfb><E:/Filer/LATEx/Compiler/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on e:/projects\Komvux\KomvuxFysik\U1\Fy2_u1_Emil_Svenberg.pdf (5 pages, 157036 bytes).
+Output written on e:/projects\Komvux\KomvuxFysik\U1\Fy2_u1_Emil_Svenberg.pdf (5 pages, 157347 bytes).
 PDF statistics:
  51 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
