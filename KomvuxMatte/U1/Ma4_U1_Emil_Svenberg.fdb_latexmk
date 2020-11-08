@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1604484558 "e:/projects/Komvux/KomvuxMatte/U1/Ma4_U1_Emil_Svenberg.tex" "e:/projects/Komvux/KomvuxMatte/U1/Ma4_U1_Emil_Svenberg.pdf" "Ma4_U1_Emil_Svenberg" 1604484558
+["pdflatex"] 1604841813 "e:/projects/Komvux/KomvuxMatte/U1/Ma4_U1_Emil_Svenberg.tex" "e:/projects/Komvux/KomvuxMatte/U1/Ma4_U1_Emil_Svenberg.pdf" "Ma4_U1_Emil_Svenberg" 1604841814
   "C:/Users/Emil/AppData/Local/MiKTeX/2.9/miktex/data/le/pdftex/pdflatex.fmt" 1586509767 10005931 6fd34ae148c9b1e8cee18120aaac0625 ""
   "C:/Users/Emil/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map" 1601930612 80043 e21f383012970912036ffe705e6ee6a3 ""
   "E:/Filer/LATEx/Compiler/fonts/tfm/public/cm/cmbx12.tfm" 1136765053 1324 c910af8c371558dc20f2d7822f66fe64 ""
@@ -15,6 +15,7 @@
   "E:/Filer/LATEx/Compiler/fonts/tfm/public/cm/cmsy6.tfm" 1136765053 1116 933a60c408fc0a863a92debe84b2d294 ""
   "E:/Filer/LATEx/Compiler/fonts/tfm/public/cm/cmsy8.tfm" 1136765053 1120 8b7d695260f3cff42e636090a8002094 ""
   "E:/Filer/LATEx/Compiler/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1247593066 32080 340ef9bf63678554ee606688e7b5339d ""
+  "E:/Filer/LATEx/Compiler/fonts/type1/public/amsfonts/cm/cmex10.pfb" 1247593067 30251 6afa5cb1d0204815a708a080681d4674 ""
   "E:/Filer/LATEx/Compiler/fonts/type1/public/amsfonts/cm/cmmi12.pfb" 1247593067 36741 0ee9e374ec3e30da87cdfb0ea3575226 ""
   "E:/Filer/LATEx/Compiler/fonts/type1/public/amsfonts/cm/cmmi8.pfb" 1247593066 35469 dcf3a5f2fc1862f5952e3ee5eb1d98c4 ""
   "E:/Filer/LATEx/Compiler/fonts/type1/public/amsfonts/cm/cmr12.pfb" 1247593067 32722 d7379af29a190c3f453aba36302ff5a9 ""
@@ -36,13 +37,15 @@
   "Figur2.png" 1604185053 27621 e9b9cc20d9f874f0e5406e5f687b8fb6 ""
   "Figur3.png" 1604311628 32931 9a6a4a4bcf481518503110ae7720c372 ""
   "Figur4.png" 1604313570 14396 1785a59245e74c289d2c0320d0d6ed78 ""
-  "Ma4_U1_Emil_Svenberg.aux" 1604484558 8 a94a2480d3289e625eea47cd1b285758 "pdflatex"
-  "Ma4_U1_Emil_Svenberg.tex" 1604484557 3174 5b235e98b0b958992acbb47a60354660 ""
-  "e:/projects/Komvux/KomvuxMatte/U1/Ma4_U1_Emil_Svenberg.aux" 1604484558 8 a94a2480d3289e625eea47cd1b285758 ""
-  "e:/projects/Komvux/KomvuxMatte/U1/Ma4_U1_Emil_Svenberg.tex" 1604484557 3174 5b235e98b0b958992acbb47a60354660 ""
+  "Figur5.png" 1604700766 57814 3f2748acb6598fdfa825f7103e620385 ""
+  "Figur6.png" 1604829857 76615 7693e0c9fa8448dffb91495aed52d50f ""
+  "Ma4_U1_Emil_Svenberg.aux" 1604841814 8 a94a2480d3289e625eea47cd1b285758 "pdflatex"
+  "Ma4_U1_Emil_Svenberg.tex" 1604841813 4096 36a81d7c62c811a6f73642e408a2cc42 ""
+  "e:/projects/Komvux/KomvuxMatte/U1/Ma4_U1_Emil_Svenberg.aux" 1604841814 8 a94a2480d3289e625eea47cd1b285758 ""
+  "e:/projects/Komvux/KomvuxMatte/U1/Ma4_U1_Emil_Svenberg.tex" 1604841813 4096 36a81d7c62c811a6f73642e408a2cc42 ""
   (generated)
-  "Ma4_U1_Emil_Svenberg.log"
-  "Ma4_U1_Emil_Svenberg.pdf"
-  "e:/projects/Komvux/KomvuxMatte/U1/Ma4_U1_Emil_Svenberg.log"
   "Ma4_U1_Emil_Svenberg.aux"
   "e:/projects/Komvux/KomvuxMatte/U1/Ma4_U1_Emil_Svenberg.pdf"
+  "e:/projects/Komvux/KomvuxMatte/U1/Ma4_U1_Emil_Svenberg.log"
+  "Ma4_U1_Emil_Svenberg.log"
+  "Ma4_U1_Emil_Svenberg.pdf"

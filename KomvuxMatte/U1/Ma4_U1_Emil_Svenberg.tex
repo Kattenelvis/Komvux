@@ -3,6 +3,14 @@
 %\usepackage{url}
 %For images
 \usepackage{graphicx}
+
+\addtolength{\oddsidemargin}{-.875in}
+\addtolength{\evensidemargin}{-.875in}
+\addtolength{\textwidth}{1.75in}
+
+\addtolength{\topmargin}{-.875in}
+\addtolength{\textheight}{1.75in}
+
 \begin{document}
 \begin{enumerate}
       \item $$sin(2x)=0.875$$
@@ -14,16 +22,13 @@
             Det gör det även självklart
             att det andra svaret inom $0 \leq x \leq \pi$ är $\pi-x\approx=2,61$ som ligger till vänster om bilden.
 
-            \includegraphics[scale=0.45]{Figur1.png}
+            \includegraphics[scale=0.5]{Figur1.png}
 
       \item
             \begin{enumerate}
-                  \item Med ren spekulation, 2.5 är mindre än pi men mer än pi/2, så det måste vara i andra kvadranten.
-                        Vi vet att $\pi=180^\circ $. Vi kan nu ta fram det med
-                        hjälp av enhetsanalys. Om 180 är grader per radie, och pi är endast ett nummer, och v är en vinkel
-                        i grader, så kommer vi få $v\pi / 180$ som svar. Räknar man ut enheterna får man radien.
+                  \item Följande ekvation konverterar från radier till grader $2.5\cdot180^\circ/\pi\approx 140$ grader.
 
-                  \item Vi sätter in det som v i ekvationen och vi får $36\pi / 180 = 9 \pi/ 45$
+                  \item Man konverterar grader till radier med $36\pi/180^\circ=0.63$ radier.
             \end{enumerate}
 
       \item
@@ -32,7 +37,7 @@
                         så snabbt som den vanliga pendulen. Då kommer varje vinkel x nås dubbelt så snabbt. Då blir
                         cos(2x) för 45 graders vinkeln $\pi/4=0$. Vid $\pi/2$ är det då -1 osv.
 
-                        \includegraphics[scale=0.5]{Figur2.png}
+                        \includegraphics[scale=0.7]{Figur2.png}
 
                   \item Det första man kan ta reda på är noll punkterna. Detta sker vid $\pi/6$ och $7\pi/6$,
                         eller generellt vid $(1+6n)\pi/6$.
@@ -62,6 +67,26 @@
 
             \end{enumerate}
 
-      \item funs
+      \item Detta kan lösas genom att finna skärningspunkterna mellan
+            funktionerna $sin^2(x)-1$ och $1.5sin(x)$ som visas nedan.
+
+            \includegraphics[scale=0.45]{Figur5.png}
+
+            Svaren blir då $7\pi/6 +2\pi n$ och $11\pi/6 +2\pi n$
+
+      \item Grafiskt ser det ut som följande
+            där man även kan observera grafernas skärningspunkter
+
+            \includegraphics[scale=0.5]{Figur6.png}
+
+            Då kan varenda linje i triangeln bli sin egna vektor $\vec{v_i}=(x,y)^T$, där
+            x är den högra punktens x-koordinat minus den vänstra punktens x, och där y är den högra punktens y minus
+            den vänstra punkten y. Den euklediska längden $||v_1||$ är då pytagaros sats som räknas ut nedan.
+
+            $$||v_1||=\sqrt{(3.5-0.934)^2+(0.5-0.804)^2}=2.584$$
+            $$||v_2||=\sqrt{(3.5-4.076)^2+(0.5-(-0.804))^2}=1.426$$
+            $$||v_3||=\sqrt{(0.934-4.076)^2+(0.804-(-0.804))^2}=3.529$$
+
+            Triangelns omkrets blir då $||v_1||+||v_2||+||v_3||=2.584+1.426+3.529=7.539$.
 \end{enumerate}
 \end{document}
