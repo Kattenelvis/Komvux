@@ -36,9 +36,6 @@ INPUT E:\Filer\LATEx\Compiler\fonts\tfm\public\cm\cmmi6.tfm
 INPUT E:\Filer\LATEx\Compiler\fonts\tfm\public\cm\cmsy10.tfm
 INPUT E:\Filer\LATEx\Compiler\fonts\tfm\public\cm\cmsy8.tfm
 INPUT E:\Filer\LATEx\Compiler\fonts\tfm\public\cm\cmsy6.tfm
-INPUT E:\Filer\LATEx\Compiler\fonts\tfm\public\cm\cmbx12.tfm
-INPUT E:\Filer\LATEx\Compiler\fonts\tfm\public\cm\cmbx8.tfm
-INPUT E:\Filer\LATEx\Compiler\fonts\tfm\public\cm\cmbx6.tfm
 INPUT e:\projects\Komvux\KomvuxMatte\U1\Figur1.png
 INPUT e:\projects\Komvux\KomvuxMatte\U1\Figur1.png
 OUTPUT e:\projects\Komvux\KomvuxMatte\U1\Ma4_U1_Emil_Svenberg.pdf
@@ -56,6 +53,9 @@ INPUT e:\projects\Komvux\KomvuxMatte\U1\Figur3.png
 INPUT e:\projects\Komvux\KomvuxMatte\U1\Figur3.png
 INPUT e:\projects\Komvux\KomvuxMatte\U1\Figur3.png
 INPUT e:\projects\Komvux\KomvuxMatte\U1\Figur3.png
+INPUT E:\Filer\LATEx\Compiler\fonts\tfm\public\cm\cmbx12.tfm
+INPUT E:\Filer\LATEx\Compiler\fonts\tfm\public\cm\cmbx8.tfm
+INPUT E:\Filer\LATEx\Compiler\fonts\tfm\public\cm\cmbx6.tfm
 INPUT e:\projects\Komvux\KomvuxMatte\U1\Figur4.png
 INPUT e:\projects\Komvux\KomvuxMatte\U1\Figur4.png
 INPUT e:\projects\Komvux\KomvuxMatte\U1\Figur4.png
