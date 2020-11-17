@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7380 64-bit) (preloaded format=pdflatex 2020.4.10)  14 NOV 2020 15:13
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7380 64-bit) (preloaded format=pdflatex 2020.4.10)  16 NOV 2020 12:01
 entering extended mode
 **e:/projects/Komvux/KomvuxFysik/U2/Fy1202_u2_Emil_Svenberg.tex
 (e:/projects/Komvux/KomvuxFysik/U2/Fy1202_u2_Emil_Svenberg.tex
@@ -74,21 +74,28 @@ LaTeX Font Info:    ... okay on input line 12.
 ) (E:\Filer\LATEx\Compiler\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
-) [1
+)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 17.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 17.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 17.
+ [1
 
 {C:/Users/Emil/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] (e:/projects\Komvux\KomvuxFysik\U2\Fy1202_u2_Emil_Svenberg.aux) ) 
 Here is how much of TeX's memory you used:
- 1126 strings out of 480930
- 16744 string characters out of 2911446
- 249940 words of memory out of 3000000
- 17046 multiletter control sequences out of 15000+200000
- 532636 words of font info for 25 fonts, out of 3000000 for 9000
+ 1147 strings out of 480930
+ 16957 string characters out of 2911446
+ 251940 words of memory out of 3000000
+ 17060 multiletter control sequences out of 15000+200000
+ 535074 words of font info for 33 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 30i,4n,25p,234b,97s stack positions out of 5000i,500n,10000p,200000b,50000s
-<E:/Filer/LATEx/Compiler/fonts/type1/public/amsfonts/cm/cmr12.pfb>
-Output written on e:/projects\Komvux\KomvuxFysik\U2\Fy1202_u2_Emil_Svenberg.pdf (1 page, 9368 bytes).
+ 30i,4n,25p,234b,133s stack positions out of 5000i,500n,10000p,200000b,50000s
+<E:/Filer/LATEx/Compiler/fonts/type1/public/amsfonts/cm/cmmi12.pfb><E:/Filer/LATEx/Compiler/fonts/type1/public/amsfonts/cm/cmmi8.pfb><E:/Filer/LATEx/Compiler/fonts/type1/public/amsfonts/cm/cmr12.pfb><E:/Filer/LATEx/Compiler/fonts/type1/public/amsfonts/cm/cmr8.pfb><E:/Filer/LATEx/Compiler/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on e:/projects\Komvux\KomvuxFysik\U2\Fy1202_u2_Emil_Svenberg.pdf (1 page, 49803 bytes).
 PDF statistics:
- 10 PDF objects out of 1000 (max. 8388607)
+ 26 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
