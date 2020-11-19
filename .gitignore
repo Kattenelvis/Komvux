@@ -5,4 +5,4 @@
 *.fdb_latexmk
 *.aux
 *.log
-!spec/*.log
+*.synctex.gz
