@@ -1,8 +1,8 @@
 /Komvux
 /Komvux3
 /Real Analysis
-.fls
-.fdb_latexmk
-.gz
-.aux
-.log
+*.fls
+*.fdb_latexmk
+*.aux
+*.log
+!spec/*.log
