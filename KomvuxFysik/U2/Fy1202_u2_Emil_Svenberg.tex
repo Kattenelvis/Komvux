@@ -42,7 +42,47 @@
 
     \item 
     \begin{enumerate}
-        \item sd
+        \item För att framställa ekvationen av typ $asin(\omega t)$ som visar fjärdens 
+        elongation krävs det att $\omega$, 
+        den rotationella hastigheten, löses ut. Detta kräver två fakta:
+        $$\omega=\sqrt{\frac{k}{m}}\rightarrow\frac{1}{\omega}=\sqrt{\frac{m}{k}}$$
+        Och
+        $$T=2\pi\sqrt{\frac{m}{k}}=2\pi\frac{1}{\omega}$$
+        Som då löser ut sig till
+        $$\omega=2\pi\frac{1}{T}=2\pi f$$
+        
+        Detta ger oss då ekvationen för viktens position i fjädern som
+        en funktion av tid
+        $$a\sin(2\pi f\cdot t)$$
+ 
+        Newtons andra lag säger att $F=ma=m(x)''$
+        Så då deriveras ekvationen
+        $$(x)'=2\pi f\cdot a\cos(2\pi f\cdot t)$$
+        $$(x)''=-4\pi^2 f^2\cdot a\sin(2\pi f\cdot t)$$
+
+        Avståndet från jämnvikten är 0.10 meter. Detta kan även beskrivas som
+        $$a\sin(2\pi f\cdot t)=0.1$$
+        Löser ut för t
+        $$t=\frac{\sin^{-1}(0.1a^{-1})}{2\pi f}\approx\sin^{-1}(0.67)/(2\cdot 3.14 \cdot 1/1.5)\approx 0,17s$$
+    
+    
+        Kraften vid den punkten blir då
+        $$
+        F=m(x)''\approx-0.350\cdot4\pi^2 \frac{1}{1.5^2}\cdot 0.15\sin(2\pi \frac{1}{1.5}\cdot 0.17)
+        \approx -0.92\sin(0.71) \approx -0.61
+        $$
+
+        Kraften blir då alltså -0.61 Newtons.
+
+        \item Vi vet att F=kx. 
+        $$T=2\pi\sqrt{\frac{m}{k}}\Rightarrow k=4\pi^2\frac{m}{T^2}\approx 39.5\frac{0.350}{1.5^2}\approx 6,14$$
+        Vi vet från uppgiften att $x=0.1$
+        Så då blir kraften $0.1\cdot 6.14 = 0.614$ Newtons.
+
     \end{enumerate}
+
+    \item om dom är likadana så antar jag att detta innebär att $k_1=k_2=k$
+    och $a_1=a_2=-g$ och $x_1=x_2=x$. $-mg=kx$.  $mg/x=k$
+
 \end{enumerate}
 \end{document}
