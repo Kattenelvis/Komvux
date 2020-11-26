@@ -28,7 +28,9 @@
 
         Vilket kan verifieras med en bild
 
-        \includegraphics[scale=0.5]{Figur 1.jpg}
+        \begin{center}
+            \includegraphics[scale=0.5]{Figur 1.jpg}
+        \end{center}
     \end{enumerate}
 
     \item
@@ -37,7 +39,9 @@
 
     Som illustreras som röd medans den svarta är orginalekvationen.
     
-    \includegraphics[scale=0.6]{Figur 2.jpg}
+    \begin{center}
+        \includegraphics[scale=0.6]{Figur 2.jpg}
+    \end{center}
     
     Extrempunkterna hamnar där derivatan är noll
     $$\frac{10}{x}-2x+8=0$$
@@ -45,9 +49,14 @@
     $$10-2x^2=-8x\Rightarrow x^2-4x-5=0\Rightarrow (x-5)(x+1)=0$$
     Extrempunkterna sker då vid 5 och -1.
     Man kan se vid dom olika omskrivningarna av derivatan
-    så behåller möter dom fortfarande varandra på x-axeln
+    så behåller möter dom fortfarande varandra på x-axeln.
+    Att manipulera polynomer som man sätter lika med noll är samma
+    som att transformera kurvan i det tvådimensionella planet som behåller
+    punkten.
 
-    \includegraphics[scale=0.6]{Figur 3.jpg}
+    \begin{center}
+        \includegraphics[scale=0.6]{Figur 3.jpg}
+    \end{center}
 
     Men eftersom att den orginella ekvationen inehåller
     $10ln(x)$ så är den odefinierad för reella variabler.
@@ -58,5 +67,63 @@
     Detta kan man se i figur 2. 
 
     \item 
+    Ekvationen för en tangent vid punkt $x_0$ är
+    $f'(x_0)x+f(x_0)-f'(x_0)x_0$.
+    
+    Eftersom att $x_0=0$ så simplifieras den till
+    $f'(0)x+f(0)$.
+
+    $f(0)=4\sin(2\cdot 0)+\cos(0)=1$
+
+    $f'(x)=8cos(2x)-sin(x)$
+    
+    $f'(0)=8cos(2\cdot 0)-sin(0)=8$
+
+    Så då blir tangenten och svaret på frågan följande:
+    $f'(0)x+f(0)=8x+1$
+
+    I figuren nedan är tangenten blå, derivatan lila 
+    och den orginella ekvationen är röd. Observera att 
+    y och x axlarna inte har samma skala.
+
+    \begin{center}    
+        \includegraphics[scale=0.5]{Figur4.png}
+    \end{center}
+
+    \item Asymptoterna är ställen i funktionen där man delar på noll.
+    Vid $$y=\frac{2}{x-3}+4$$ är det självklart att 3 är en assymptot.
+    På y-axeln sker det också en asymptot. 4:an i ekvationen
+    får en att tänka sig att det sker då (se figur nedan) eftersom
+    att 4 transformerar hela grafen upp med 4. Men för att göra detta 
+    rigoröst lösar man ut x
+    $$y-4=\frac{2}{x-3}\Rightarrow x-3=\frac{2}{y-4}\Rightarrow x=\frac{2}{y-4}+3 $$
+
+    Detta visar att y=4 är den andra asymptoten.
+    
+    \begin{center}
+        \includegraphics[scale=0.5]{Figur5.png}
+    \end{center}
+
+    \item 
+    I uppgiften får vi reda på två sanningar. Med följande variabler
+
+    \begin{center}
+        \includegraphics[scale=0.4]{Figur 6.png}
+    \end{center}
+    
+    Får vi ut att Arean $A=ab$ och omkretsen $O=50=2a+b$
+    Omkretsekvationen kan skrivas om som $b=50-2a$ och sedan 
+    sättas in i den första vilket bildar $A=a(50-2a)=50a-2a^2$.
+
+    Maxpunkten blir då där derivatan av funktionen är noll.
+    $50-4a=0\Rightarrow a=12.5$ meter.
+
+    Så när a är 12.5 meter blir det optimal area, och följande 
+    ekvationen kring omkretsen måste b ha längden $50-2\cdot 12.5=25$ meter.
+
+    \item 
+    
+
+
 \end{enumerate}
 \end{document}
