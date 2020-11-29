@@ -154,11 +154,49 @@
     Frågan är hur fort arean ökar, så då deriveras ekvationen med respekt av tid
     och man får $\frac{dA}{dt}=\pi 18t$. Vid tid $t=5$ så ökar arean med $\pi 18\cdot 5=90\pi \approx 282 m^2/s$
     
-    FEL SVAARARARAARAR
+    FEL SVAARARARAARAR DEN ÄR OMÖJLIGT SÅ SNABBT VÄXANDE
 
     \item 
-    $$\frac{x^2+3}{x-1}$$
-    $$\frac{x^2+3}{x-1}$$
+    Jag börjar med att skriva om ekvationen så den 
+    blir enklare att derivera.
+    $$f(x):=\frac{x^2+3}{x-1}$$
+    $$(x^2+3)(x-1)^{-1}$$
+    
+    Nu deriveras det. Med produktregeln blir det 
+    $$f'(x)=(x-1)^{-1}(x^2+3)'+((x-1)^{-1})'(x^2+3)$$
+    
+    Jag börjar med att derivera $(x-1)^{-1}$.
+    Låt $u=x-1$ och $y=\frac{1}{u}$.
+    Med Leibniz notering 
+    $$\frac{dy}{dx}=\frac{dy}{du}\cdot \frac{du}{dx}
+    =-\frac{3}{u^2}\cdot 1=-\frac{1}{(x-1)^2}$$
+    
+    Sammtidigt blir derivatan för $x^2+3=2x$
+    Då blir det 
+    $$f'(x)=(x-1)^{-1}2x-\frac{1}{(x-1)^2}(x^2+3)$$
+    $$=\frac{2x}{x-1}-\frac{x^2+3}{(x-1)^2}$$
+    
+    Extrempunkterna där derivatan är noll och
+    andraderivatan är negativ är där 
+    maxpunkter finns. 
+    
+    $$0=\frac{2x}{x-1}-\frac{x^2+3}{(x-1)^2}$$
+    $$\frac{x^2+3}{(x-1)^2}=\frac{2x}{x-1}$$
+    $$\frac{x^2+3}{x-1}={2x}$$
+    $$x^2+3=2x(x-1)$$
+    $$x^2+3=2x^2-2x$$
+    $$0=x^2-2x-3$$
+    $$0=(x-3)(x+1)$$
+    Extrempunkter sker vid 3 och -1. Med hjälp av andraderivatan
+    kan man ta reda på vilka som är min, max eller terraspunkt.
+    
+    $$f''(x)=(\frac{2x}{x-1})'-(\frac{x^2+3}{(x-1)^2})'$$
+    
+    Där 
+    $$(2x(x-1)^{-1})'=\frac{2}{x-1}-\frac{2x}{(x-1)^2}$$
+    
+    Och
+    $$(\frac{x^2+3}{(x-1)^2})'=$$
 
 \end{enumerate}
 \end{document}
