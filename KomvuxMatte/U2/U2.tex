@@ -20,7 +20,10 @@
     \end{enumerate}
 
     \item \begin{enumerate}
-        \item Derivatan är 
+        \item Med usubstution får man att $u=3-2x$ och $y=2u^3$
+        Då följer detta:
+        $$\frac{dy}{dx}=\frac{dy}{du}\cdot \frac{du}{dx}
+        \Rightarrow 6u^2\cdot(-2)=-12(3-2x)^2$$
 
         \item $$y'(x)=-\frac{4}{x^2}+\frac{1}{x}$$
         Så 
@@ -143,19 +146,17 @@
     =\lim_{x\rightarrow \infty}\frac{1}{2^x}
     =0$$
 
-    \item I uppgiften får vi differentialekvationen $\frac{dr}{dt}=3$ 
-    där r är radien och t är tid. Vi vet även att Arean av en cirkel är 
-    $A=\pi r^2$. Vi löser ekvationen 
-    $dr=3dt\Rightarrow \int dr =\int 3dt
-    \Rightarrow r=3t+c$.
-    Men vi kan anta att konstanten $c=0$ om början av olyckan var vid en punkt.
-    
-    Sedan stoppas den in i Area ekvationen $A=\pi (3t)^2=\pi 9t^2$. 
-    Frågan är hur fort arean ökar, så då deriveras ekvationen med respekt av tid
-    och man får $\frac{dA}{dt}=\pi 18t$. Vid tid $t=5$ så ökar arean med $\pi 18\cdot 5=90\pi \approx 282 m^2/s$
-    
-    FEL SVAARARARAARAR DEN ÄR OMÖJLIGT SÅ SNABBT VÄXANDE
+    \item 
+    Arean på cirkeln $A=\pi r^2$, så derivatan blir $\frac{dA}{dr}=2\pi r$.
+    Vi kan då göra följande
+    $$\frac{dA}{dt}=\frac{dA}{dr}\cdot\frac{dr}{dt}=2\pi r \cdot 3 = 6\pi r$$
 
+    Eftersom att i uppgiften får vi reda på att förändringen av radien är tre,
+    $\frac{dr}{dt}=3$. 
+    Men då följer det att $r=3t$.
+    Då får vi följande $$\frac{dA}{dt}=6\pi 3t=18\pi t$$
+
+    När t=5 så växter cirkelns area med $18 \pi\cdot 5=90\pi\approx 282$ meter per sekund.
     \item 
     Jag börjar med att skriva om ekvationen så den 
     blir enklare att derivera.
