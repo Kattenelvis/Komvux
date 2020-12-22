@@ -77,16 +77,46 @@
 
     \item 
 
-    \item 
-    
-    \item Följande områden ska bilda rotationsvolymer
+    $$sin(x) + \frac{cos(2x)}{2}]_0^{\pi/2}$$
+    $$1-1/2=0.5$$
 
+    \item Man kan sätta in lösningen i den originella differnetialekvationen.
+    
+    $$y'=A-2B/x^3$$
+    $$y''=6B/x^4$$
+
+    Sedan sätts dom in i ekvationen.
+
+    $$x^2 6B/x^4+2x(A-2B/x^3)-2(Ax+B/x^2)$$
+    $$=6B/x^2+2xA-4B/x^2-2xA-2B/x^2$$
+    $$=\frac{B}{x^2}(6-4-2)+2xA(2-2)$$
+    $$=0$$
+    
+    \item Följande områden ska bilda rotationsvolymer där area A är lila
+    och area B är röd. 
     \begin{center}
         \includegraphics[scale=0.4]{Figur 6.png}
     \end{center}
 
     Där den lila linjen visar vart y=b är och den röda linjen
-    visar vart x=a är. 
+    visar vart x=a är. Rotationsvolymen $V_a$ roterar på x-axeln och går
+    mellan 0 och a, så då blir det $V_a=\pi\int_0^ax^4dx$ medans för den som
+    roterar runt y axeln blir $V_b=\pi\int_0^bydy$. Sambadet mellan dom räknas
+    då ut som följande.
+
+    $$\pi\int_0^ax^4dx=\pi\int_0^bydy\Rightarrow \frac{x^5}{5}]_0^a=\frac{y^2}{2}]_0^b\Rightarrow \frac{a^5}{5}=\frac{b^2}{2}\Rightarrow 2a^5=5b^2$$
+    $$\Rightarrow b=\sqrt{\frac{2a^5}{5}}=\frac{\sqrt{2}}{\sqrt{5}}a^{5/2}$$
+
+    Enligt ekvationen åvan, vid större värden av a, så måste b växa
+    väldigt fort. Detta är logiskt då rotationsvolymen som bildas
+    av b (den lila delen av bilden nedan) växer mycket långsammare 
+    än den som är begränsad av a (röda delen). En liten förändring
+    db bildar en mycket större förändring da. 
+
+    \begin{center}
+        \includegraphics[scale=0.35]{Figur 7.png}
+    \end{center}
+
 
 \end{enumerate}
 \end{document}
