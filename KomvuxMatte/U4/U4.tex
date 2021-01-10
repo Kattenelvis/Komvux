@@ -73,11 +73,29 @@
           $$-\frac{2a+3}{1+a^2}i=0\Rightarrow -2a=3\Rightarrow a=-3/2$$
 
           \item 
-          Ekvationen löses som $$z=\sqrt[3]{i27}=-i3$$.
-          Från den fundamentala satsen av algebra finns det två rötter till.
-          Vi skriver om då 
-          $$27i=27e^{i\pi/2}\Rightarrow z=\sqrt[3]{27e^{i\pi/2}}=3e^{i\pi/6}$$
+          $$z^3=r^3e^{3(\theta+2\pi n)}$$
           
+          27i ligger vid vinkeln $\pi/2$ med radien 27. Då får man att
+          
+          $$z^3=27e^{\frac{\pi}{2}+2\pi n}\Rightarrow z=3e^{\pi/6+2\pi n/3}$$
+
+          Lösningarna är alltså
+          $$z_1=3e^{\pi/6}$$
+          $$z_1=3e^{5\pi/6}$$
+          $$z_1=3e^{9\pi/6}=-3i$$
+          
+          Här är en illustration över lösningarna. "Singulariteterna" visar på där
+          x och y ko-ordinaterna är input till funktionen och färgen visar outputten.
+          Runt rötterna som tidigare räknats ut drar sig outputen närmare noll ju närmare
+          rötterna dom kommer i inputten.
+
+          Eftersom att dom är alla lika långt bort från origon så hamnar dom även på
+          en cirkel med radien 3 runt origon.
+
+          \begin{center}
+                \includegraphics[scale=0.5]{Figur 5.png}
+          \end{center}
+
           \item $$z_1=2e^{-5\pi/18}$$
             $$z_2=3e^{4\pi/18}$$
           $$arg(3z_1\cdot 2z_2)=arg(2\cdot 3e^{-5\pi/18+4\pi/18})=arg(6e^{-\pi/18})=-\frac{\pi}{18}$$
