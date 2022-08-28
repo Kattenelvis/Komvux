@@ -1,6 +1,6 @@
 $$o\in O$$
 
-Hewwo! did you know $$x=3$$?!
+Hewwo! did you know $$x=3$$ ?!
 
 
 $$x=4$$
